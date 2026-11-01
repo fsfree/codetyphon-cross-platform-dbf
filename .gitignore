@@ -1,0 +1,12 @@
+# 忽略编译产物与临时文件
+*.exe
+*.o
+*.ppu
+*.obj
+*.compiled
+*.res
+*.bak
+lib/
+backup/
+.DS_Store
+Thumbs.db
